@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\user\Desktop\kombinatorika\kombinatorika\kombinatorika.h(81,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "FileName.cpp")
+  
+  kombinatorika.vcxproj -> C:\Users\user\Desktop\kombinatorika\x64\Debug\kombinatorika.exe
