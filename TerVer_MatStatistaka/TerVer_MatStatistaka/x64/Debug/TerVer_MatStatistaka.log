@@ -1,5 +1,0 @@
-﻿  FileName.cpp
-C:\Users\777\Desktop\14.04.2025-main\TerVer_MatStatistaka\TerVer_MatStatistaka\sami_function.h(75,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\777\Desktop\14.04.2025-main\TerVer_MatStatistaka\TerVer_MatStatistaka\sami_function.h(75,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-  LINK : не найден или не выполнена сборка C:\Users\777\Desktop\14.04.2025-main\TerVer_MatStatistaka\x64\Debug\TerVer_MatStatistaka.exe при последней инкрементной компоновке; выполняется полная компоновка
-  TerVer_MatStatistaka.vcxproj -> C:\Users\777\Desktop\14.04.2025-main\TerVer_MatStatistaka\x64\Debug\TerVer_MatStatistaka.exe
